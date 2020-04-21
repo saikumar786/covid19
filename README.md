@@ -1,4 +1,4 @@
-# covid19
+# covid19 Forecasting
 Forecasting the covid19 cases using Time Series Analysis
 
 #Time Series Analysis
